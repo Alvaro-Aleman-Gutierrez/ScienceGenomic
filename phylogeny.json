@@ -1,9 +1,9 @@
 {"nodes":[
 {"name":"Alvaro"},
 {"name":"Aleman"},
-{"name":"Gutierrez"},
+{"name":"Gutierrez"}
 ],
 "links":[
 {"source":0,"target":1,"value":124.729},
-{"source":1,"target":2,"value":0.597},
+{"source":1,"target":2,"value":0.597}
 ]}
