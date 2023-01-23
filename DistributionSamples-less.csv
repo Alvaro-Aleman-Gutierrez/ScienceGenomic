@@ -1,4 +1,4 @@
-species,id,mass,sex,Localities,country,lat,long
+Species,id,mass,sex,Localities,country,lat,long
 L.g.cacsilensis,1g,15,male,Huallhua,Perú,-14.833333,-74.683333
 L.g.cacsilensis,3g,15,male,Putre,Chile,-18.8,-69.538599
 L.g.cacsilensis,4g,15,male,Putre,Chile,-18.8,-69.543741
